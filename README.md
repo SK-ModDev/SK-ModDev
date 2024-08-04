@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning better coding techniques.
 - 💞️ I’m looking to collaborate on ... NOT ... just alone.
 - 📫 How to reach me ... Discord
-- 😄 Pronouns: ... Seriously, who care. You don't know me.
+- 😄 Pronouns: ... Seriously, who cares. You don't know me.
 - ⚡ Fun fact: ... People tend to care, just because they follow what they see online. In reality, no one cares.
 
 <!---
