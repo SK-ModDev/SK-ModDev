@@ -10,7 +10,7 @@
 - ⚡ Fun fact #4: ... Are you a leader ... or just following another leader?
 - ⚡ Fun fact #5: ... Truth Hurts.
 - ⚡ Fun fact #6: ... When you don’t know how to give. You only take.
-
+- ⚡ Fun fact #7: ... Don't force others to accept your decisions.
 <!---
 SK-ModDev/SK-ModDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
