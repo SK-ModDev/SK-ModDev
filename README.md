@@ -9,6 +9,7 @@
 - ⚡ Fun fact #3: ... Real happyness does not require to be public.
 - ⚡ Fun fact #4: ... Are you a leader ... or just following another leader?
 - ⚡ Fun fact #5: ... Truth Hurts.
+- ⚡ Fun fact #6: ... When you don’t know how to give. You only take.
 
 <!---
 SK-ModDev/SK-ModDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
