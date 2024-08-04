@@ -8,6 +8,7 @@
 - ⚡ Fun fact #2: ... Inclusion also excludes people.
 - ⚡ Fun fact #3: ... Real happyness does not require to be public.
 - ⚡ Fun fact #4: ... Are you a leader ... or just following another leader?
+- ⚡ Fun fact #5: ... Truth Hurts.
 
 <!---
 SK-ModDev/SK-ModDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
