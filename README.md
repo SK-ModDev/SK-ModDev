@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SK-ModDev - SWL creator.
-- 👀 I’m interested in Minecraft modding.
+- 👀 I’m interested in Minecraft modding and game development.
 - 🌱 I’m currently learning better coding techniques.
 - 💞️ I’m looking to collaborate on ... NOT ... just alone.
 - 📫 How to reach me ... Discord
